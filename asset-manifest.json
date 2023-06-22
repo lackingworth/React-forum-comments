@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lackingworth/React-forum-comments/static/css/main.3afaf683.css",
+    "main.js": "/lackingworth/React-forum-comments/static/js/main.bcce027e.js",
+    "static/media/hypnotize_bg.webp": "/lackingworth/React-forum-comments/static/media/hypnotize_bg.aa2237c9bb6916fe325b.webp",
+    "index.html": "/lackingworth/React-forum-comments/index.html",
+    "main.3afaf683.css.map": "/lackingworth/React-forum-comments/static/css/main.3afaf683.css.map",
+    "main.bcce027e.js.map": "/lackingworth/React-forum-comments/static/js/main.bcce027e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3afaf683.css",
+    "static/js/main.bcce027e.js"
+  ]
+}
